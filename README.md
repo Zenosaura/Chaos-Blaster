@@ -47,6 +47,8 @@ Survive through 15 waves of enemies by strategically placing and upgrading your 
 
 - **15 Waves of Combat:** Battle through 15 waves with increasingly difficult and numerous enemies.
 
+---
+
 ### Tech used
 - **Game Engine:** Unity
 - **Language:** C#
