@@ -49,7 +49,7 @@ Survive through 15 waves of enemies by strategically placing and upgrading your 
 
 ---
 
-### Tech used
+## 💻 Tech used
 - **Game Engine:** Unity
 - **Language:** C#
 - **Graphics:** Adobe Illustrator
