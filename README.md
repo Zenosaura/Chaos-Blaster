@@ -6,7 +6,7 @@ A 2D Tower Defense game made in 8 hours for a competition at PTIT.
 
 ## 🎮 How to Play
 
-> **The easiest way to play is to download a playable build directly from the [Releases]((https://github.com/Zenosaura/Chaos-Blaster/releases/tag/v.1.0.0)) tab of this repository.**
+> **The easiest way to play is to download a playable build directly from the [Releases](https://github.com/Zenosaura/Chaos-Blaster/releases/tag/v.1.0.0) tab of this repository.**
 
 ### Objective
 Survive through 15 waves of enemies by strategically placing and upgrading your defense turrets.
