@@ -72,6 +72,11 @@ Survive through 15 waves of enemies by strategically placing and upgrading your 
 
 ---
 
+### 🎨 Assets Used
+Falcon Games Studio UI Pack
+
+---
+
 ## 📜 License
 
 Distributed under the MIT License. See the `LICENSE` file for more information.
