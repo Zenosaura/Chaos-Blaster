@@ -65,7 +65,7 @@ Survive through 15 waves of enemies by strategically placing and upgrading your 
 ### Instructions
 1.  Clone the repository to your machine:
     ```sh
-    git clone [https://github.com/your-username/Chaos-Blaster.git](https://github.com/your-username/Chaos-Blaster.git)
+    git clone [https://github.com/Zenosaura/Chaos-Blaster.git](https://github.com/Zenosaura/Chaos-Blaster.git)
     ```
 2.  Open the project folder in Unity Hub.
 3.  Unity will automatically resolve the necessary packages. Once it's finished, open the project.
